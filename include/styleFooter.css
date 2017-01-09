@@ -9,20 +9,61 @@ footer{
 	padding: 5px;
 }
 
+h1, p, a{
+	color: #413fb5;
+}
+
 /*-------------------------------------------------------------------------------------social------------------------------------------------------------------------------------------*/
 
 .social{
-	height: 100px;
+	height: 100%;
 	position: relative;
 }
-
+/*
 .social img{
-	width: 50px;
+	width: 40px;
+}
+*/
+
+ .icon {
+	position: absolute;
+	display: block;
+	width: 84px;
+	height: 84px;
+	-webkit-transition:-webkit-transform 2s;
+	transition: transform 2s, border-radius 1s;
+}
+
+#fb{
+	top: 0px;
+	left: 0px;
+	background: url("../images/media.png") 0px 0px;
+}
+
+
+#tw{
+	top: 0px;
+	left: 45px;
+	background: url("../images/media.png") 252px 0px;
+}
+
+#pt{
+	top: 0px;
+	left: 95px;
+	background: url("../images/media.png") 504px 0px;
+}
+
+#fb:hover, #tw:hover, #pt:hover{
+	-webkit-transform: rotate(360deg);
+	transform: rotate(360deg);
+	border-radius: 50px;
 }
 
 #cgv{
+	width: 148px;
 	position: absolute;
-	bottom: 0px;
+	bottom: -103px;
+	font-size: 12px;
 }
 
 /*-------------------------------------------------------------------------------------fin social------------------------------------------------------------------------------------------*/
@@ -36,5 +77,9 @@ footer{
 /*-------------------------------------------------------------------------------------address------------------------------------------------------------------------------------------*/
 .address p{
 	font-size: 10px;
+}
+
+h1{
+	font-size: 20px;
 }
 /*-------------------------------------------------------------------------------------fin address--------------------------------------------------------------------------------------*/
