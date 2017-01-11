@@ -1,15 +1,4 @@
-<!DOCTYPE html>
-<html>
-    
-    <head>
-        <meta charset="utf-8">
-        <title>header</title>
-        
-        <link rel="stylesheet" href="css/bootstrap.css">
-        <link rel="stylesheet" href="include/topheader.css">
-    </head>
-    <body>
-<div class="container">
+<div class="container" id="header">
     <div class="row">
         <div class="col-md-2 logo">
             <img src="images/abder_auto.png">
@@ -27,7 +16,3 @@
             </div>
     </div>
 </div>
-        <script src="js/bootstrap.min.js"></script>
-        
-    </body>
-</html>

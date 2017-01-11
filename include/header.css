@@ -1,4 +1,4 @@
-img,section,div,p
+header
 {
-    border:1px solid black;
-    }
+	background: linear-gradient(to bottom right, #6F5BFF, white);
+}
