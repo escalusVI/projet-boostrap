@@ -3,8 +3,6 @@ footer{
 	height: 110px;
 	background: linear-gradient(to bottom right, #6F5BFF, white);
 	font-family: Comic Sans MS;
-	position: absolute;
-	bottom: 0px;
 	text-align: center;
 	padding: 5px;
 }

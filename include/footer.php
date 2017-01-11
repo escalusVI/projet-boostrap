@@ -1,4 +1,4 @@
-<div class="container">
+<div class="container-fluid">
 	<div class="row">
 		<div class="col-md-3 col-sm-6 col-xs-6 social" >
 			<a href="#" id="fb" class="icon"></a>
