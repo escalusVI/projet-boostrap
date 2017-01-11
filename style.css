@@ -1,5 +1,5 @@
-article p{
-	text-align: center;
+.thumbnail{
+	margin: 0 5px 30px 5px;
 }
 
 .btn-primary, .btn-default{
@@ -13,4 +13,18 @@ article p{
 	color: black;
 	border-color: black;
 }
+/********************/
+/*     carousel    */
+/*******************/
+ .carousel-indicators
+  {
+    width: 5%;
+    top: 10%;
+    left: 77.5%;
+    position: absolute;
+    white-space: nowrap;
+  }
+/*****************/
+/*      fin     */
+/***************/
 
