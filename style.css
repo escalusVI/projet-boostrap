@@ -27,4 +27,6 @@
 /*****************/
 /*      fin     */
 /***************/
-
+section, .carousel-inner{
+	margin-top: 30px;
+}

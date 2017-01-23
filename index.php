@@ -21,7 +21,7 @@
 			<article>
 			
 				<div class="row">
-				  <div class="col-md-4 hidden-sm hidden-xs ">
+				  <div class="col-md-4 col-xs-12 ">
 					<div class="thumbnail">
 					  <img src="images/abder_auto.png" alt="...">
 					  <div class="caption">
@@ -55,12 +55,21 @@
 				  </div>
 				</div>
 
+				<div class="visible-xs col-xs-offset-3 container">
+				  <ul class="pagination">
+					<li><a href="#">&laquo;</a></li>
+					<li><a href="#">1</a></li>
+					<li><a href="#">2</a></li>
+					<li><a href="#">3</a></li>
+					<li><a href="#">&raquo;</a></li>
+				  </ul>
+				</div>
 			</article>
 			
 			<article>
 			
 				<div class="row">
-				  <div class="col-md-4 hidden-sm hidden-xs ">
+				  <div class="col-md-4 col-xs-12 ">
 					<div class="thumbnail">
 					  <img src="images/abder_auto.png" alt="...">
 					  <div class="caption">
@@ -94,12 +103,22 @@
 				  </div>
 				</div>
 
+				<div class="visible-xs col-xs-offset-3 container">
+				  <ul class="pagination">
+					<li><a href="#">&laquo;</a></li>
+					<li><a href="#">1</a></li>
+					<li><a href="#">2</a></li>
+					<li><a href="#">3</a></li>
+					<li><a href="#">&raquo;</a></li>
+				  </ul>
+				</div>
+				
 			</article>
 			
 			<article>
 			
 				<div class="row">
-				  <div class="col-md-4 hidden-sm hidden-xs ">
+				  <div class="col-md-4 col-xs-12 ">
 					<div class="thumbnail">
 					  <img src="images/abder_auto.png" alt="...">
 					  <div class="caption">
@@ -133,12 +152,22 @@
 				  </div>
 				</div>
 
+				<div class="visible-xs col-xs-offset-3 container">
+				  <ul class="pagination">
+					<li><a href="#">&laquo;</a></li>
+					<li><a href="#">1</a></li>
+					<li><a href="#">2</a></li>
+					<li><a href="#">3</a></li>
+					<li><a href="#">&raquo;</a></li>
+				  </ul>
+				</div>
+				
 			</article>
 			
 			<article>
 			
 				<div class="row">
-				  <div class="col-md-4 hidden-sm hidden-xs ">
+				  <div class="col-md-4 col-xs-12 ">
 					<div class="thumbnail">
 					  <img src="images/abder_auto.png" alt="...">
 					  <div class="caption">
@@ -172,12 +201,22 @@
 				  </div>
 				</div>
 
+				<div class="visible-xs col-xs-offset-3 container">
+				  <ul class="pagination">
+					<li><a href="#">&laquo;</a></li>
+					<li><a href="#">1</a></li>
+					<li><a href="#">2</a></li>
+					<li><a href="#">3</a></li>
+					<li><a href="#">&raquo;</a></li>
+				  </ul>
+				</div>
+				
 			</article>
 			
 			<article>
 			
 				<div class="row">
-				  <div class="col-md-4 hidden-sm hidden-xs ">
+				  <div class="col-md-4 col-xs-12">
 					<div class="thumbnail">
 					  <img src="images/abder_auto.png" alt="...">
 					  <div class="caption">
@@ -211,6 +250,16 @@
 				  </div>
 				</div>
 
+				<div class=" visible-xs col-xs-offset-3 container">
+				  <ul class="pagination">
+					<li><a href="#">&laquo;</a></li>
+					<li><a href="#">1</a></li>
+					<li><a href="#">2</a></li>
+					<li><a href="#">3</a></li>
+					<li><a href="#">&raquo;</a></li>
+				  </ul>
+				</div>
+				
 			</article>
 		
 		</section>
