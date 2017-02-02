@@ -2,3 +2,9 @@ header
 {
 	background: linear-gradient(to bottom right, #6F5BFF, white);
 }
+
+.logo img{
+	width: 70%;
+	height: 70%;
+	border: 1px dotted black;
+}
