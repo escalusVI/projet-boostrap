@@ -6,11 +6,11 @@
     </div>
     <div class="row">
        <div class="col-md-2 logo"><img src="images/abder_auto.png"></div>
-       <div class="col-md-offset-2 col-md-4 text-center titre"><h1>Abder Auto</h1></div>     
+       <div class="col-md-10 text-center anim"><h1>Abder Auto</h1></div>     
     </div>
     <div class="row"> 
     <div class="col-md-offset-9 col-md-3 pull-right recherche">
-        <div class="input-group custom-search-form">
+        <div class="input-group input-group-sm custom-search-form">
               <input type="text" class="form-control">
               <span class="input-group-btn">
               <button class="btn btn-default" type="button">
