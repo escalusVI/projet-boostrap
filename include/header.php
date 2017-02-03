@@ -4,9 +4,9 @@
            <a href="connection.php"> connection</a>
         </div>
     </div>
-    <div class="row">
+    <div class="row text-center">
        <div class="col-md-2 logo"><img src="images/abder_auto.png"></div>
-       <div class="col-md-10 text-center anim"><h1>Abder Auto</h1></div>     
+       <div class="col-md-offset-3 col-md-2 text-center anim"><h1>Abder Auto</h1></div>     
     </div>
     <div class="row"> 
     <div class="col-md-offset-9 col-md-3 pull-right recherche">
