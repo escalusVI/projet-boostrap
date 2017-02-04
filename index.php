@@ -6,7 +6,9 @@
 		<link rel="stylesheet" href="style.css">
 		<link rel="stylesheet" href="include/styleFooter.css"/>
 		<link rel="stylesheet" href="include/header.css"/>
-		
+		<script src="js/bootstrap.js"></script>
+		<script src="js/jquery.js"></script>
+    <script src="js/anim.js"></script>
 		<title>Abder Auto vente de vehicules</title>
 	</head>
 	<body>
@@ -28,7 +30,7 @@
 					<div class="thumbnail">
 					  <img src="images/voitures/ford/fordescort.jpg" alt="..." >
 					  <div class="caption">
-						<h3>Modele</h3>
+						<h3>Ford Escort</h3>
 						<p>Descriptif</p>
 						<p><a href="#" class="btn btn-primary" role="button">Ajouter au panier</a> <a href="#" class="btn btn-default pull-right" role="button">En savoir plus</a></p>
 					  </div>
@@ -39,7 +41,7 @@
 					<div class="thumbnail">
 				       <img src="images/voitures/ford/fordfiesta.jpg" alt="...">
 					  <div class="caption">
-						<h3>Modele</h3>
+						<h3>Ford Fiesta</h3>
 						<p>Descriptif</p>
 						<p><a href="#" class="btn btn-primary" role="button">Ajouter au panier</a> <a href="#" class="btn btn-default pull-right" role="button">En savoir plus</a></p>
 					  </div>
@@ -50,7 +52,7 @@
 					<div class="thumbnail">
 					  <img src="images/voitures/ford/fordmondeo.jpg" alt="...">
 					  <div class="caption">
-						<h3>Modele</h3>
+						<h3>Ford Mondeo</h3>
 						<p>Descriptif</p>
 						<p><a href="#" class="btn btn-primary" role="button">Ajouter au panier</a> <a href="#" class="btn btn-default pull-right" role="button">En savoir plus</a></p>
 					  </div>
@@ -76,7 +78,7 @@
 					<div class="thumbnail">
 					  <img src="images/voitures/opel/opelcorsab.jpg" alt="...">
 					  <div class="caption">
-						<h3>Modele</h3>
+						<h3>Opel Corsa</h3>
 						<p>Descriptif</p>
 						<p><a href="#" class="btn btn-primary" role="button">Ajouter au panier</a> <a href="#" class="btn btn-default pull-right" role="button">En savoir plus</a></p>
 					  </div>
@@ -87,7 +89,7 @@
 					<div class="thumbnail">
 					  <img src="images/voitures/opel/opelvectra.jpg" alt="...">
 					  <div class="caption">
-						<h3>Modele</h3>
+						<h3>Opel Vectra</h3>
 						<p>Descriptif</p>
 						<p><a href="#" class="btn btn-primary" role="button">Ajouter au panier</a> <a href="#" class="btn btn-default pull-right" role="button">En savoir plus</a></p>
 					  </div>
@@ -98,7 +100,7 @@
 					<div class="thumbnail">
 					  <img src="images/voitures/opel/opelzafira.jpg" alt="...">
 					  <div class="caption">
-						<h3>Modele</h3>
+						<h3>Opel Zafira</h3>
 						<p>Descriptif</p>
 						<p><a href="#" class="btn btn-primary" role="button">Ajouter au panier</a> <a href="#" class="btn btn-default pull-right" role="button">En savoir plus</a></p>
 					  </div>
@@ -125,7 +127,7 @@
 					<div class="thumbnail">
 					  <img src="images/voitures/peugeot/peugeot205.jpg" alt="...">
 					  <div class="caption">
-						<h3>Modele</h3>
+						<h3>Peugeot 205</h3>
 						<p>Descriptif</p>
 						<p><a href="#" class="btn btn-primary" role="button">Ajouter au panier</a> <a href="#" class="btn btn-default pull-right" role="button">En savoir plus</a></p>
 					  </div>
@@ -136,7 +138,7 @@
 					<div class="thumbnail">
 					  <img src="images/voitures/peugeot/peugeot305.jpg" alt="...">
 					  <div class="caption">
-						<h3>Modele</h3>
+						<h3>Peugeot 305</h3>
 						<p>Descriptif</p>
 						<p><a href="#" class="btn btn-primary" role="button">Ajouter au panier</a> <a href="#" class="btn btn-default pull-right" role="button">En savoir plus</a></p>
 					  </div>
@@ -147,7 +149,7 @@
 					<div class="thumbnail">
 					  <img src="images/voitures/peugeot/peugeot405.jpg" alt="...">
 					  <div class="caption">
-						<h3>Modele</h3>
+						<h3>peugeot 405</h3>
 						<p>Descriptif</p>
 						<p><a href="#" class="btn btn-primary" role="button">Ajouter au panier</a> <a href="#" class="btn btn-default pull-right" role="button">En savoir plus</a></p>
 					  </div>
@@ -174,7 +176,7 @@
 					<div class="thumbnail">
 					  <img src="images/voitures/renault/renault5.jpg" alt="...">
 					  <div class="caption">
-						<h3>Modele</h3>
+						<h3>Renault 5</h3>
 						<p>Descriptif</p>
 						<p><a href="#" class="btn btn-primary" role="button">Ajouter au panier</a> <a href="#" class="btn btn-default pull-right" role="button">En savoir plus</a></p>
 					  </div>
@@ -185,7 +187,7 @@
 					<div class="thumbnail">
 					  <img src="images/voitures/renault/renault19.jpg" alt="...">
 					  <div class="caption">
-						<h3>Modele</h3>
+						<h3>Renault 19</h3>
 						<p>Descriptif</p>
 						<p><a href="#" class="btn btn-primary" role="button">Ajouter au panier</a> <a href="#" class="btn btn-default pull-right" role="button">En savoir plus</a></p>
 					  </div>
@@ -196,7 +198,7 @@
 					<div class="thumbnail">
 					  <img src="images/voitures/renault/renault21.jpg" alt="...">
 					  <div class="caption">
-						<h3>Modele</h3>
+						<h3>Renault 21</h3>
 						<p>Descriptif</p>
 						<p><a href="#" class="btn btn-primary" role="button">Ajouter au panier</a> <a href="#" class="btn btn-default pull-right" role="button">En savoir plus</a></p>
 					  </div>
@@ -223,7 +225,7 @@
 					<div class="thumbnail">
 					  <img src="images/voitures/wolkswagen/wolkgolf3.jpg" alt="...">
 					  <div class="caption">
-						<h3>Modele</h3>
+						<h3>Wolkswagen Golf 3</h3>
 						<p>Descriptif</p>
 						<p><a href="#" class="btn btn-primary" role="button">Ajouter au panier</a> <a href="#" class="btn btn-default pull-right" role="button">En savoir plus</a></p>
 					  </div>
@@ -234,7 +236,7 @@
 					<div class="thumbnail">
 					  <img src="images/voitures/wolkswagen/wolkpassat.jpg" alt="...">
 					  <div class="caption">
-						<h3>Modele</h3>
+						<h3>Wolkswagen Passat</h3>
 						<p>Descriptif</p>
 						<p><a href="#" class="btn btn-primary" role="button">Ajouter au panier</a> <a href="#" class="btn btn-default pull-right" role="button">En savoir plus</a></p>
 					  </div>
@@ -245,7 +247,7 @@
 					<div class="thumbnail">
 					  <img src="images/voitures/wolkswagen/wolkpolo.jpg" alt="...">
 					  <div class="caption">
-						<h3>Modele</h3>
+						<h3>Wolkswagen Polo</h3>
 						<p>Descriptif</p>
 						<p><a href="#" class="btn btn-primary" role="button">Ajouter au panier</a> <a href="#" class="btn btn-default pull-right" role="button">En savoir plus</a></p>
 					  </div>
