@@ -10,20 +10,35 @@ header
 }
 
 .anim {
-	width:15%;
+	width:25%;
 	height:15%;
 	font-size: 0.6em;
 	animation: myfirst 3s linear;
 }
+
+.rouegauche img, .rouedroite img{
+	height:60px;
+	width:60px;;
+	animation: mysecond 3s linear;
+}
 @keyframes myfirst {
     0%   {left:-500px; top:-10px;}
-    5%  {left:-400px;top:-10px;transform :rotate(-45deg);}
-    15%  {left:-300px; top:-10px;}
-    25%  { left:-200px; top:-10px;}
-    50% { left:-100px; top:-10px;}
-    100% {left:0px; top:0px;;}
+    50%  {left:-400px;top:-10px;transform :rotate(-45deg);}
+    100% {left:0px; top:0px;}
 }
-*{
+@keyframes mysecond {
+ from {
+    transform :rotate(0deg);
+  }
+
+  to {
+    transform:rotate(2000deg);
+  }
+
+}
+.roue , h1
+{
 	 box-sizing: border-box;
 	border: 1px dotted black;
+	margin-bottom:0px;
 }
