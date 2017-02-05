@@ -11,15 +11,15 @@
         <!-- Wrapper for slides -->
         <div class="carousel-inner">
             <div class="item active">
-                <img src="https://placeholdit.imgix.net/~text?txtsize=40&bg=4C4028&txtclr=ffffff&txt=SLIDE 1&w=1170&h=300" alt="...">
+                <img class="img-responsive center-block" src="include/carousel/promo1.png" alt="...">
             </div>
         
             <div class="item">
-                <img src="https://placeholdit.imgix.net/~text?txtsize=40&bg=4C4028&txtclr=ffffff&txt=SLIDE 2&w=1170&h=300" alt="...">
+                <img class="img-responsive center-block" src="include/carousel/promo2.png" alt="...">
             </div>
         
             <div class="item">
-                <img src="https://placeholdit.imgix.net/~text?txtsize=40&bg=4C4028&txtclr=ffffff&txt=SLIDE 3&w=1170&h=300" alt="...">
+                <img class="img-responsive center-block" src="include/carousel/promo3.png" alt="...">
             </div>
         </div>
         
@@ -37,4 +37,4 @@
 </div>
 
 <script src="js/jquery.js"></script>
-	<script src="js/bootstrap.min.js"></script>
+<script src="js/bootstrap.min.js"></script>

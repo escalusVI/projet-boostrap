@@ -6,9 +6,12 @@
 		<link rel="stylesheet" href="style.css">
 		<link rel="stylesheet" href="include/styleFooter.css"/>
 		<link rel="stylesheet" href="include/header.css"/>
+		<link rel="stylesheet" href="include/carousel/carousel.css">
+
 		<script src="js/bootstrap.js"></script>
 		<script src="js/jquery.js"></script>
     <script src="js/anim.js"></script>
+
 		<title>Abder Auto vente de vehicules</title>
 	</head>
 	<body>
@@ -21,7 +24,14 @@
 		</header>
 			
 			<?php include ("include/carousel/carousel.php");?>
-		
+		<div class="container-fluid">
+					<div class="row">
+             <div class="col-md-offset-4 col-md-4 text-center">
+						 recherche
+						 </div>
+					</div>
+					</div>
+
 		<section>
 			<article>
 			

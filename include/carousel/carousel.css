@@ -6,3 +6,11 @@
     position: absolute;
     white-space: nowrap;
   }
+ .carousel-inner img {
+   height:50%;
+   width:70%;
+ }
+
+ .carousel-inner {
+   background-color:black;
+ }
