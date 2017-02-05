@@ -9,9 +9,9 @@
        <div class="col-md-offset-3 col-md-2 text-center anim">
         <h1>Abder Auto</h1>  
         <div class="row roue">
-                <div class="col-md-offset-1 col-md-1 rouegauche"><img src="images/pneu.jpg">
+                <div class="col-md-offset-1 col-md-1 rouegauche"><img  src="images/pneu.png">
                 </div>
-                <div class="col-md-offset-5 col-md-1 rouedroite"><img src="images/pneu.jpg">
+                <div class="col-md-offset-5 col-md-1 rouedroite"><img  src="images/pneu.png">
                 </div>
         </div>   
        

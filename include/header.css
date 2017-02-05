@@ -24,7 +24,7 @@ header
 @keyframes myfirst {
     0%   {left:-500px; top:-10px;}
     50%  {left:-400px;top:-10px;transform :rotate(-45deg);}
-    100% {left:0px; top:0px;display:none;}
+    100% {left:0px; top:0px;}
 }
 @keyframes mysecond {
  from {
