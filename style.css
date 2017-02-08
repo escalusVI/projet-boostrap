@@ -37,6 +37,6 @@ section, .carousel-inner{
 	height:200px;
 }
 
-body{
-	background: linear-gradient(to bottom right, #6F5BFF, white);
+header, body, footer {
+	background-image:-moz-linear-gradient(right, white, #6F5BFF);
 }
