@@ -14,12 +14,10 @@
 		<header>
 			<?php include ("include/header.php");?>
 		</header>
-			
-			<?php include ("include/carousel/carousel.php");?>
 		
-		<section>
+		<section class="row">
 			
-			<aside class="row">
+			<aside class="row col-lg-4">
 				
 				<div class="col-lg-12 asideAdmin">Catégories</div>
 				<div class="col-lg-12 asideAdmin">Liste des clients</div>
@@ -29,11 +27,48 @@
 			
 			</aside>
 			
+			<article class="col-lg-offset-1 col-lg-7">
+			
+				<table>
+					<tr>
+						<th>Références</th>
+						<th>Clients</th>
+						<th>Date</th>
+						<th>Prix TTC</th>
+					</tr>
+				   <tr>
+					   <td>MO5896</td>
+					   <td>Théo</td>
+					   <td>24/01/2017</td>
+					   <td>50,00€</td>
+					   
+				   </tr>
+				    <tr>
+					   <td>MO5897</td>
+					   <td>Laurent</td>
+					   <td>16/01/2017</td>
+					   <td>50,00€</td>
+				   </tr>
+				   
+				</table>
+				
+				<div class="center container">
+				  <ul class="pagination">
+					<li><a href="#">&laquo;</a></li>
+					<li><a href="#">1</a></li>
+					<li><a href="#">2</a></li>
+					<li><a href="#">3</a></li>
+					<li><a href="#">&raquo;</a></li>
+				  </ul>
+				</div>
+				
+			</article>
+			
 			
 		
 		</section>
 	
-		<footer>
+		<footer class="row">
 			<?php include ("include/footer.php");?>
 		</footer>
 		

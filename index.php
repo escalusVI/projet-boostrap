@@ -32,7 +32,7 @@
 					</div>
 					</div>
 
-		<section>
+		<section class="row">
 			<article>
 			
 				<div class="row">
@@ -279,7 +279,7 @@
 		
 		</section>
 	
-		<footer>
+		<footer class="row">
 			<?php include ("include/footer.php");?>
 		</footer>
 		
