@@ -47,7 +47,7 @@
 					</div>
 				  </div>
 				  
-				  <div class="col-md-4 hidden-sm col-xs-12 modele2" >
+				  <div class="col-md-4 hidden-sm hidden-xs modele2" >
 					<div class="thumbnail">
 				       <img src="images/voitures/ford/fordfiesta.jpg" alt="...">
 					  <div class="caption">
@@ -72,8 +72,8 @@
 
 				<div class="visible-xs col-xs-offset-3 container">
 				  <ul class="pagination">
-					<li><a href="#modele1">&laquo;</a></li>
-					<li><a href="#modele2">1</a></li>
+					<li><a href="#">&laquo;</a></li>
+					<li><a href="#">1</a></li>
 					<li><a href="#">2</a></li>
 					<li><a href="#">3</a></li>
 					<li><a href="#">&raquo;</a></li>

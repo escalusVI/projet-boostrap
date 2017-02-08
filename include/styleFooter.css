@@ -25,31 +25,35 @@ h1, p, a{
 	height: 84px;
 	-webkit-transition:-webkit-transform 2s;
 	transition: transform 2s, border-radius 1s;
+	margin-left: 20px;
 }
 
 #fb{
 	top: 0px;
 	left: 0px;
-	background: url("../images/media.png") 0px 0px;
+	background: url("../images/media.png") 0px 168px;
+	border-radius: 50%;
 }
 
 
 #tw{
 	top: 0px;
-	left: 45px;
-	background: url("../images/media.png") 252px 0px;
+	left: 84px;
+	background: url("../images/media.png") 252px 168px;
+	border-radius: 50%;
 }
 
 #pt{
 	top: 0px;
-	left: 95px;
-	background: url("../images/media.png") 504px 0px;
+	left: 168px;
+	background: url("../images/media.png") 504px 168px;
+	border-radius: 50%;
 }
 
 #fb:hover, #tw:hover, #pt:hover{
 	-webkit-transform: rotate(360deg);
 	transform: rotate(360deg);
-	border-radius: 50px;
+	border-radius: 19%;
 }
 
 #cgv{
@@ -57,6 +61,7 @@ h1, p, a{
 	position: absolute;
 	bottom: -103px;
 	font-size: 12px;
+	margin-left: 20px;
 }
 
 /*-------------------------------------------------------------------------------------fin social------------------------------------------------------------------------------------------*/

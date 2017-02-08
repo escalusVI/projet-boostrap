@@ -36,6 +36,10 @@ section, .carousel-inner{
 	width:80%;
 	height:200px;
 }
+.thumbnail{
+	background-color: rgba(18, 41, 140, 0.35);
+	border: none;
+}
 
 header, body, footer {
 	background-image:-moz-linear-gradient(right, white, #6F5BFF);
@@ -48,6 +52,10 @@ header, body, footer {
 	background-color: rgba(18, 41, 140, 0.35) ;
 	padding-bottom: 10px;
 	text-align: center;
+}
+
+.asideAdmin a{
+	color: white;
 }
 
 .pagination > li  > a{

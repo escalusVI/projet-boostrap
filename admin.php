@@ -19,11 +19,11 @@
 			
 			<aside class="row col-lg-4">
 				
-				<div class="col-lg-12 asideAdmin">Catégories</div>
-				<div class="col-lg-12 asideAdmin">Liste des clients</div>
-				<div class="col-lg-12 asideAdmin">Liste des commandes</div>
-				<div class="col-lg-12 asideAdmin">CGV</div>
-				<div class="col-lg-12 asideAdmin">Mention légales</div>
+				<div class="col-lg-12 asideAdmin"><a href="#">Catégories</a></div>
+				<div class="col-lg-12 asideAdmin"><a href="#">Liste des clients</a></div>
+				<div class="col-lg-12 asideAdmin"><a href="#">Liste des commandes</a></div>
+				<div class="col-lg-12 asideAdmin"><a href="#">CGV</a></div>
+				<div class="col-lg-12 asideAdmin"><a href="#">Mention légales</a></div>
 			
 			</aside>
 			
